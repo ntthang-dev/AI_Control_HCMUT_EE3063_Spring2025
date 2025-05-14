@@ -1,0 +1,71 @@
+================================================
+== CHUONG TRINH CHUYEN DOI FILE VOI PANDOC ==
+================================================
+
+
+Nhap duong dan den thu muc chua file can chuyen doi: src\homeworks
+[DEBUG] Ban da nhap source_folder_path: "src\homeworks"
+[DEBUG] source_folder_path sau khi trim quotes: "src\homeworks"
+[DEBUG] source_folder_path sau khi them '\': "src\homeworks\"
+
+Nhap duong dan thu muc de luu file da chuyen doi (nhan Enter de mac dinh la thu muc cua file .bat nay): docs
+[DEBUG] destination_folder_path: "D:\AI_Control_HCMUT_EE3063_Spring2025\docs\"
+
+Chon kieu chuyen doi:
+  1. Chuyen doi tat ca cac file trong thu muc nguon (bo qua cac thu muc con)
+  2. Chi chuyen doi cac file co duoi (.md, .ipynb, ...)
+
+Lua chon cua ban (1 hoac 2): 2 
+
+Nhap cac duoi file can chuyen doi, cach nhau bang dau phay (vi du: .md,.ipynb,.txt): .md, .ipynb
+
+Chon dinh dang file dau ra:
+  1. PDF
+  2. DOCX
+
+Lua chon cua ban (1 hoac 2): 2
+
+================================================
+Dang bat dau qua trinh chuyen doi...
+Thu muc nguon: src\homeworks\
+Thu muc dich: D:\AI_Control_HCMUT_EE3063_Spring2025\docs\
+Loai file se chuyen doi: .md, .ipynb
+Dinh dang dau ra: .docx
+Vui long doi...
+================================================
+
+Dang xu ly file: "Compared Machine Learning&Deep Learning.md"
+
+Dang xu ly file: "HW1 - Perceptron.ipynb"
+
+Dang xu ly file: "HW2 - Phân loại Đa lớp với KNN, OvR, OvO.ipynb"
+
+Dang xu ly file: "HW3 - Linear Regression and KNN for Regression.ipynb"
+
+Dang xu ly file: "HW4 - K-Means for Image Color Quantization (Compression).ipynb"
+
+Dang xu ly file: "HW5 - Q-Learning Algorithm.ipynb"
+
+Dang xu ly file: "HW6 - RNN for Character-Level Name Prediction.ipynb"
+
+Dang xu ly file: "HW7 - LSTM for Character-Level Name Prediction.ipynb"
+
+Dang xu ly file: "Particle Filter - Robot Localization 1D.ipynb"
+
+Dang xu ly file: "Phân tích và Dự đoán Giá Xe Audi Sử dụng KNN và Hồi quy Tuyến tính.ipynb"
+
+Dang xu ly file: "Summary Deep Learning.md"
+
+Dang xu ly file: "Summary Machine Learning.md"
+[WARNING] Could not fetch resource NotebookLM%20Mind%20Map%20(6).png: replacing image with description
+[WARNING] Could not fetch resource NotebookLM%20Mind%20Map%20(5).png: replacing image with description
+
+Dang xu ly file: "Summary Uncertainty.md"
+
+
+================================================
+--- KET QUA CHUYEN DOI ---
+================================================
+So file da chuyen doi thanh cong: 13
+So file bi loi trong qua trinh chuyen doi: 0
+: was unexpected at this time.
